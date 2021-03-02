@@ -1,5 +1,5 @@
 def primary():
-   #print(This is nifty!)
+   print(This is nifty!)
 
   f = open("quotes.txt")
   quotes = f.readlines()
